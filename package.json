@@ -1,0 +1,53 @@
+{
+  "name": "makeexam",
+  "version": "1.0.0",
+  "description": "An exam-editing utility based on the .gift format, developed by AubeDev for the SRU.",
+  "main": "makeexam.js",
+  "bin": {
+    "makeexam": "makeexam.js"
+  },
+  "author": "AubeDev",
+  "contributors": [
+    {
+      "name": "Gnouryarou Marc- Arthur Khadanga",
+      "email": "gnouyarou_marc_arthur.kadangha@utt.fr"
+    },
+    {
+      "name": "Félix Houdebert",
+      "email": "felix.houdebert@utt.fr",
+      "url": "https://www.perdu.com/"
+    },
+    {
+      "name": "Romain Philippe",
+      "email": "romain.philippe@utt.fr"
+    },
+    {
+      "name": "Ismaël Khaladi",
+      "email": "ismael.khaladi@utt.fr"
+    }
+  ],
+  "license": "MIT/BSD",
+  "readme": "README.md",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "dependencies": {
+    "@caporal/core": "^2.0.2",
+    "es6-lib": "^0.1.1",
+    "gift-pegjs": "^0.2.1",
+    "npm": "^8.1.4",
+    "prompt-sync": "^4.2.0",
+    "sexy-require": "^1.1.2",
+    "vcard-js": "^1.2.2",
+    "vcards-js": "^2.10.0",
+    "vega": "^5.21.0",
+    "vega-lite": "^5.2.0"
+  },
+  "devDependencies": {
+    "jasmine": "^3.10.0"
+  },
+  "engines": {
+    "npm": ">=6.0.0",
+    "node": ">=15.0.0"
+  }
+}

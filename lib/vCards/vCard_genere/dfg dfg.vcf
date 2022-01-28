@@ -1,0 +1,18 @@
+BEGIN:VCARD
+VERSION:4.0
+FN:dfg fg dfg
+N:dfg;dfg;fg;;
+GENDER:dfg
+UID:t
+EMAIL;type=HOME:dfg
+EMAIL;type=WORK:df
+TEL;VALUE=uri;TYPE="voice,cell":tel:dfg
+TEL;VALUE=uri;TYPE="voice,work":tel:dfg
+ADR;TYPE=WORK;LABEL="Work Address":;;df;df;;df;rt
+TITLE:dfg
+ORG:r
+URL:gdf
+URL;type=WORK:g
+NOTE:sdfghj
+REV:2021-11-22T15:39:30.664Z
+END:VCARD

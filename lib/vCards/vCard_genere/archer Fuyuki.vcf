@@ -1,0 +1,27 @@
+BEGIN:VCARD
+VERSION:4.0
+FN:archer emiya Fuyuki
+N:Fuyuki;archer;emiya;MR;
+GENDER:M
+UID:01
+BDAY:19261012
+EMAIL;type=HOME:Arth0gma.fr
+EMAIL;type=WORK:sdfgh
+TEL;VALUE=uri;TYPE="voice,cell":tel:1234345
+TEL;VALUE=uri;TYPE="voice,home":tel:F
+TEL;VALUE=uri;TYPE="voice,work":tel:00233442
+TEL;VALUE=uri;TYPE="fax,home":tel:FG
+TEL;VALUE=uri;TYPE="fax,work":tel:RRFFV
+ADR;TYPE=HOME;LABEL="Home Address":;;RTGH;ERTFG;;ERTG;
+ADR;TYPE=WORK;LABEL="Work Address":;;erfg;erfgbhn;;edrfgbhn;erfgbh
+TITLE:Archer
+ROLE:MIND
+ORG:Graal
+URL:dfgh
+URL;type=WORK:zedfg
+NOTE:azenfezjifnzegfjzrqgzrgrfqb
+X-SOCIALPROFILE;TYPE=facebook:3ERTGHJN
+X-SOCIALPROFILE;TYPE=linkedIn:ERTG
+X-SOCIALPROFILE;TYPE=twitter:HERTG
+REV:2021-12-02T15:03:58.057Z
+END:VCARD

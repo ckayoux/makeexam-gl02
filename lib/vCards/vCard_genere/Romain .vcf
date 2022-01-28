@@ -1,0 +1,15 @@
+BEGIN:VCARD
+VERSION:4.0
+FN:Romain PHILIPPE
+N:;Romain;PHILIPPE;;
+GENDER:m
+UID:4
+BDAY:18991231
+EMAIL;type=HOME:romain@romain.fr
+TEL;VALUE=uri;TYPE="voice,work":tel:06xxxxxxxx
+ADR;TYPE=HOME;LABEL="Home Address":;;;;;;
+ADR;TYPE=WORK;LABEL="Work Address":;;;;;;
+TITLE:Etudiant
+ORG:UTT
+REV:2021-12-04T17:39:15.165Z
+END:VCARD
